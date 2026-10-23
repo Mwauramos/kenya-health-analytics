@@ -8,8 +8,7 @@ A multi-tab Streamlit dashboard for exploratory analysis of disease burden, epid
 
 ## Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kenya-health-analytics.streamlit.app)
-
+https://kenya-health-analytics-cwvysdra5syldcntwbnyry.streamlit.app/
 ---
 
 ## Overview
